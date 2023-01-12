@@ -1,15 +1,24 @@
-<h1 align="center">Hi there, I'm Muhammad Giovani 👋
+<h1 align="center">Halo semuaaa perkenalkan saya Muhammad Giovani
 </a></h1>
 <div align="center">
-<i>and here is my stats</i>
-
+  <b>ini merupakan status saya</b>
+  <p align="center"> <img src="https://komarev.com/ghpvc/?username=ImG10&label=Profile%20views&color=0e75b6&style=flat" alt="ImG10" /> </p>
 <p align="center"><img src="https://www.codewars.com/users/ImG10/badges/large"/><br /><br />
-  <img src="https://github-readme-stats.vercel.app/api?username=ImG10&show_icons=true&include_all_commits=true&theme=monokai" alt="hossein heydari's GitHub stats" /><br />
+  
+- Saya sangat antusias dalam belajar **Data Analyst, Data Scientist, Data Engineer, Business Analyst dan Business Intelligence**
+
+- Beberapa minat bahasa program dan aplikasi yang saya perdalam **Excel, Python, R Program, Tableau, Power BI, dan SQL**
+
+- Semua Project yang saya kerjakan bisa di cek **[disini](https://github.com/leonalfahrezi?tab=repositories)**
+
+
+<h3 align="center">Connect with me:</h3>
+<p align="center">
+<a href="https://linkedin.com/in/ImG10" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ImG10" height="30" width="40" /></a>
+<a href="https://instagram.com/img10.project" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ImG10" height="30" width="40" /></a></p>
+  
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ImG10&theme=monokai"/>
   </a></h1>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ImG10&layout=compact&theme=monokai&langs_count=12"/><br />
-</p>
 
 <!--
 **ImG10/ImG10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
