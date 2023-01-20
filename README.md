@@ -9,7 +9,7 @@
 
 - Beberapa minat bahasa program dan aplikasi yang saya perdalam **Excel, Python, R Program, Tableau, Power BI, dan SQL**
 
-- Semua Project yang saya kerjakan bisa di cek **[disini](https://github.com/leonalfahrezi?tab=repositories)**
+- Semua Project yang saya kerjakan bisa di cek **[disini](https://github.com/ImG10/Project)**
 
 
 <h3 align="center">Connect with me:</h3>
